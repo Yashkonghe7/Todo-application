@@ -3,7 +3,13 @@
 
 
 
+
+
+
 https://todo-application-1.azurewebsites.net
+
+
+
 
 
 
@@ -17,6 +23,10 @@ https://todo-application-1.azurewebsites.net
 
 
 
+
+
+
+
 ![Screenshot 2022-02-12 143343](https://user-images.githubusercontent.com/91724530/153704980-9272bcae-4221-413e-be6a-fd9443d9c00a.png)
 
 
@@ -24,7 +34,17 @@ https://todo-application-1.azurewebsites.net
 
 
 
-![Screenshot 2022-02-12 143412](https://user-images.githubusercontent.com/91724530/153704987-4b865fd5-10b9-4d17-a78c-131cd63b637f.png)
+
+
+
+
+
+![Screenshot 2022-02-12 143521](https://user-images.githubusercontent.com/91724530/153705043-d76e6a52-a7e5-4d7b-a58d-a7b46918e46f.png)
+
+
+
+
+
 
 
 
